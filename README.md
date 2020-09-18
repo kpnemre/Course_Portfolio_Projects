@@ -14,6 +14,8 @@ The clarusway-workshop repository contains materials related to the IT trainings
 
   - [HTML&CSS Plus Session Class-notes](./html-css/class-notes/README.md)
 
+  - [List of Coding Challenges](./html-css/coding-challenges/README.md)
+
 - [Javascript Workshop](./javascript/README.md)
 
   - [Javascript Workshop Hands-on Trainings](./javascript/hands-on/README.md)
@@ -65,6 +67,12 @@ The clarusway-workshop repository contains materials related to the IT trainings
   - [Django Session Class-notes](./django/class-notes/README.md)
 
 - [Full Stack Learning Path Teamwork Agendas](./teamwork-agendas/README.md)
+
+
+- [Sprint Evaluation](./sprint-evaluation/README.md)
+
+    - [Full Stack Learning Path Sprint Evaluation](./sprint-evaluation/sprint/README.md)
+
 
 ## Rules & Policy
 
