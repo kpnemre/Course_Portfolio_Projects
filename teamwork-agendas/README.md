@@ -11,3 +11,5 @@ List of teamwork agendas for Full Stack 6/20  learning path as follows;
 - [Teamwork Agenda - 004 : HTML & CSS & JS](https://github.com/clarusway/clarusway-full-stack-6-20/blob/master/teamwork-agendas/pro-tw-004/tw-004student.pdf)
 
 - [Teamwork Agenda - 005 : JS](https://github.com/clarusway/clarusway-full-stack-6-20/blob/master/teamwork-agendas/pro-tw-004/tw-005-student.pdf)
+
+- [Teamwork Agenda - 006 : JS](https://github.com/clarusway/clarusway-full-stack-6-20/blob/master/teamwork-agendas/pro-tw-004/tw-005-student.pdf)
